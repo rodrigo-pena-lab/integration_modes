@@ -113,5 +113,5 @@ set(gca, 'FontSize', 20)
 set(gcf,'units','inches','position',[0 0 16 4])
 
 %Save vector figure in pdf
-exportgraphics(gcf,'Step_4A_invivo.pdf','ContentType','vector');
+exportgraphics(gcf,'Step_16_invivo.pdf','ContentType','vector');
 

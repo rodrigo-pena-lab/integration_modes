@@ -381,7 +381,7 @@ set(gca, 'FontSize', 20)
 set(gcf,'units','inches','position',[0 0 16 8])
 
 %Save vector figure in pdf
-exportgraphics(gcf,'Step_3A.pdf','ContentType','vector');
+exportgraphics(gcf,'Step_14.pdf','ContentType','vector');
 
 
 

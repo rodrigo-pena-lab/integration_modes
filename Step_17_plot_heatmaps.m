@@ -82,5 +82,5 @@ colormap('hot');
 set(gcf,'units','inches','position',[0 0 16 4])
 
 %Save vector figure in pdf
-exportgraphics(gcf,'Step_4B_heatmaps.pdf','ContentType','vector');
+exportgraphics(gcf,'Step_17_heatmaps.pdf','ContentType','vector');
 

@@ -849,7 +849,7 @@ ylim([-50 200])
 set(gcf,'units','inches','position',[0 0 16 8])
 
 %Save vector figure in pdf
-exportgraphics(gcf,'Step_4A_raster.pdf','ContentType','vector');
+exportgraphics(gcf,'Step_16_raster.pdf','ContentType','vector');
 
 
 
